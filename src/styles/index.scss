@@ -11,3 +11,34 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h1{color: rgb(177, 149, 149);
+font-family: 'Courier New', Courier, monospace;
+font-size: 100px;
+margin: auto;
+text-align: center;}
+body{background: rgb(218, 212, 212);}
+input{margin: auto;
+font-family: 'Courier New', Courier, monospace;
+margin-left: 500px;
+width: 400px;
+height: 30px;}
+
+.window{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 500px;
+    width: 400px;
+    height: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    background:white}
+    .window button{
+    
+    border: 0;
+    padding: 2px;
+    background-color: white;
+    width: 20px;
+    height: 30px;
+
+}
